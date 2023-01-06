@@ -73,7 +73,7 @@ impl Gpt2ModelResources {
     /// Shared under MIT license by the Microsoft team at <https://huggingface.co/microsoft/DialoGPT-small>. Modified with conversion to C-array format.
     pub const DIALOGPT_SMALL: (&'static str, &'static str) = (
         "dialogpt-small/model",
-        "https://huggingface.co/microsoft/DialoGPT-small/resolve/main/rust_model.ot",
+        "https://huggingface.co/microsoft/DialoGPT-small/resolve/dc5fe95bf4b86d7fc7414f4ac36aee41bfa5a0ac/rust_model.ot",
     );
     /// Shared under MIT license by the Microsoft team at <https://huggingface.co/microsoft/DialoGPT-medium>. Modified with conversion to C-array format.
     pub const DIALOGPT_MEDIUM: (&'static str, &'static str) = (
